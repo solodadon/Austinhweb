@@ -11,3 +11,18 @@ Markdown: A markup language the uses plain text to create formatted
 Markup: A set of rules that define how text and image are presented in a document 
 
 Git commands and understanding the basics of what each command plays a part in 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Tracking link ](https://solodadon.github.io/Austinhweb/readme)
